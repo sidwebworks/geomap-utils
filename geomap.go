@@ -24,8 +24,8 @@ import (
 const DEFAULT_EARTH_RADIUS = float64(6378137)
 
 type LatLng struct {
-	Latitude  float64
-	Longitude float64
+	Latitude  float64 `json:"latitude"`
+	Longitude float64 `json:"longitude"`
 }
 
 type PolyUtil struct {
