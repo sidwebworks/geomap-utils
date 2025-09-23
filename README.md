@@ -7,3 +7,5 @@ Utils for working with maps, polylines and other geospatial data in Go
 ```sh
 go get github.com/sidwebworks/geomap-utils
 ```
+
+[Read Documentation](https://pkg.go.dev/github.com/sidwebworks/geomap-utils#pkg-functions)
